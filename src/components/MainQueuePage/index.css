@@ -1,0 +1,72 @@
+.left-nav-bar-main-queue-container {
+    display: flex;
+    align-items: flex-start;
+}
+
+/* User Frame */
+.user-main-frame-container {
+    display: flex;
+    background-color: #d8dae7;
+}
+
+.user-frames {
+    display: flex;
+    padding: 0px 15px;
+    align-items: center;
+    width: 120px;
+    border-radius: 8px;
+    background-color: #fafafa;
+    margin-right: 20px;
+}
+.name-profile {
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 12px;
+    padding-bottom: 6px;
+    font-weight: 700;
+    color: #e04f4f;
+    background-color: #d8dae7;
+    margin-right: 5px;
+    border: 1px solid #d8dae7;
+}
+.frame-user-name {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.user-details {
+    color: #0F8BFD ;
+}
+.length {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #0F8BFD;
+    border-radius: 30px;
+    padding-left: 5px;
+    padding-right: 5px;color: #ffffff;
+    background-color: #0F8BFD;
+}
+
+/* UserDetails address adding details */
+
+.user-details-main-frame-containers {
+    display: flex;
+    justify-content: flex-start;
+    padding:0px 30px;
+    background-color: #d8dae7;
+}
+.blue-messaging{
+    background-color: #0F8BFD;
+    width: 150px;
+}
+.view-user-details {
+    text-align: center;
+    margin-top: 100px;
+}
+.user-hannibal {
+    cursor: pointer;
+    outline: none;
+    color: #0F8BFD;
+}

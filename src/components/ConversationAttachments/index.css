@@ -1,0 +1,119 @@
+.conversation-attachments-main-container {
+    width: 300px;
+    border-radius: 6px;
+    margin-top: 20px;
+    background-color: #ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.conversation-escalate-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(185, 187, 185);
+    padding: 5px 15px;
+}
+.conversation-button{
+    border: 0px;
+    background-color: transparent;
+}
+
+.escalate {
+    background-color: #D74848;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border: 0px;
+    border-radius: 8px;
+}
+.conversation-attachment-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid rgb(185, 187, 185);
+    padding: 10px 0px;
+}
+.conversation-attach-button{
+    border: 0px;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+}
+.conversation-chrono-container {
+    display: flex;
+    align-items: flex-start ;
+}
+.user-initials {
+    border: 1px solid #e8e2e2;
+    height: 25px;
+    width: 25px;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-bottom: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-right: 5px;
+    background-color: aliceblue;
+}
+.lorem-ipsum-description {
+    /* border: 1px solid #000; */
+    border-radius: 8px;
+    padding: 8px;
+    color: #0F1729;
+    background-color: #4C629208;
+    margin-top: 30px;
+    font-size: 12px;
+}
+
+.username-rec3iving-time-container {
+    line-height: 1px;
+}
+
+.chrono-container {
+    display: none;
+}
+
+.social-media-checkbox-containers {
+    display: flex;
+    align-items: center;
+}
+.social-media-items {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-right: 20px;
+}
+
+.send-icon-button-container {
+    background-color: #0F8BFD;
+    color: #fafafa;
+    display: flex;
+    align-items: center;
+    border: 0px;
+    width: 80px;
+    height: 30px;
+}
+
+.input-message-send-button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+     width: 300px;
+}
+.attach-button {
+    border: 0px;
+    padding: 6px 10px;
+}
+.attach-icon {
+    height: 15px;
+    width: 15px;
+}
+.type-message-input {
+    padding: 8px 15px;
+    width: 60%;
+    border-radius: 6px;
+    border: 1px solid #c6c1c1; 
+}
+.social-media-input-message-container {
+    width: 300px;
+}

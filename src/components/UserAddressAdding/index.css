@@ -1,0 +1,134 @@
+.user-address-details-main-container {
+    border-radius: 8px;
+    padding: 10px;
+    width: 350px;
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+.user-profile-initials{
+    border: 1px solid #000;
+    padding: 15px;
+    border-radius: 60px;
+    font-size: 25px;
+    background-color: aliceblue;
+    margin-right: 10px;
+}
+.name-initial-username-container {
+    display: flex;
+    align-items: center;
+}
+
+.location-address-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 30px;
+}
+.location-image {
+    margin-right: 10px;
+    height: 20px;
+    width: 20px;
+}
+.customer-address-adding-details-container {
+    border: 1px solid #000;
+    background-color:#4C62921A ;
+    line-height: 0px;
+    color: #676B89;
+    font-weight: 400;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    width: 350px;
+}
+.user-details-inside-frame {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 15px;
+    font-size: 13px;
+}
+
+.details-more-container {
+    display: flex;
+    align-items: center;
+}
+.more-image {
+    margin-left: 10px;
+}
+.add-more-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(205, 204, 202, 0.811);
+}
+
+.trigger-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add-address {
+    height: 18px;
+    width: 18px;
+    margin-right: 6px;
+}
+.user-address-values {
+    color: #000;
+    font-weight: 600;
+}
+
+.brown-color {
+    color: #D7AF48;
+    margin-left: 5px;
+    font-weight: 700;
+}
+.green-color{
+    color: #48D756;
+    margin-left: 5px;
+    font-weight: 700;
+}
+.graphs-container {
+    display: flex;
+    align-items: center;
+    
+}
+.assign-other-agent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.assign-other-agent-container {
+    background-color: #0F8BFD;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 8px;
+    width: 350px;
+}
+.add-new-widget-button {
+    width: 100%;
+    border: 1px dashed #0F8BFD;
+    background-color: transparent;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-radius: 8px;
+    width: 350px;
+    color: #0F8BFD;
+    font-weight: 600;
+}
+
+.form-container {
+    padding: 10px 30px;
+    background-color: #b7b2b2;
+    border-radius: 8px;
+}
+.add-user-title {
+    text-align: center;
+}
+.add-button {
+    align-self: center;
+    padding: 10px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    align-items: center;
+}

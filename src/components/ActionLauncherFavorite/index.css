@@ -1,0 +1,118 @@
+.askcatura-container {
+    width: 300px;
+    padding: 5px 30px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+.envelope-whatsapp-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+}
+.title-whatsapp-greeting-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 350px;
+}
+
+.catura-greeting-container {
+    display: flex;
+}
+ .envelope {
+    height: 20px;
+    width: 20px;
+ }
+ .blue-arrow {
+    height: 15px;
+ }
+ .send-icon-button {
+    background-color: #0F8BFD;
+    border: 0px;
+    padding: 3px 15px;
+    margin-left: 20px;
+    border-radius: 6px;
+ }
+ .send-icon {
+    height: 20px;
+    width: 20px;
+ }
+ .capture-message {
+    width: 250px;
+ }
+ .type-input-message-container {
+    display: flex;
+    align-items: center;
+ }
+ .add-action-button-container {
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+ }
+.action-launcher-buttons {
+    border: 1px solid #0F8BFD;
+    border-radius: 4px;
+    background-color: transparent;
+    color: #0F8BFD;
+    font-weight: 500;
+    margin-right: 20px;
+    padding: 5px 15px;
+    cursor: pointer;
+    outline: none;
+}
+ .add-icon {
+    height: 15px;
+    width: 15px;
+    margin-right: 10px;
+ }
+ .add-action-fee-reversal-container {
+    display:flex;
+    align-items: center;
+    margin-top: 10px;
+ }
+
+ .search-icon-search-input-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 6px;
+    padding: 5px 15px;
+    background-color: #f3ebeb;
+ }
+ .message-search-input {
+    border: 0px;
+    margin-left: 10px;
+    background-color: transparent;
+    cursor: pointer;
+    outline: none;
+    
+ }
+ .pin-case-favorite-title {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+ }
+
+ .pin-image{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+ }
+
+ .favorite-list-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #000;
+    background-color: #f3ebeb;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 0px 10px;
+ }
+ .unordered-favorite-list {
+    margin-left: 0px;
+    padding-left: 0px;
+ }
